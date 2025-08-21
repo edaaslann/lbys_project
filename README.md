@@ -62,3 +62,6 @@ Proje Hakkında
 Flutter (Dart) ile yazılmıştır.
 
 Firebase Authentication & Firestore veritabanı kullanılmaktadır.
+
+> Not: Projede yer alan bazı büyük dosyalar (örn. google-services.json, lock dosyaları vb.) GitHub üzerinde boyutlarından dolayı **önizlenememektedir**. 
+Bu durum projenin çalışmasına engel değildir; projeyi indirdiğinizde tüm dosyalar eksiksiz şekilde çalışır.
