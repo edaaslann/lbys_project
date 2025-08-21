@@ -37,7 +37,7 @@ Gerçekçi senaryo: Normalde cihazlardan QR kod ile otomatik veri aktarımı yap
 Test kolaylığı: İki hastanın kan değerleri özellikle boş bırakıldı, böylece laborant panelinde manuel giriş/test senaryosu yapılabilir.
 
 Uygulamayı Çalıştırma
-1) Mobil (Android/iOS)
+Mobil (Android/iOS)
 
 Depoyu klonlayın veya ZIP olarak indirin.
 
