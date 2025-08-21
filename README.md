@@ -17,13 +17,13 @@ Uygulamaya giriş yapmak için hazır test kullanıcıları mevcuttur:
 
 Rol     	  E-posta                	Şifre
 
-Doktor	  test@doktor.com          	123456
+Doktor	-  test@doktor.com          	123456
 
-Yönetici	deneme@yonetici.com    	  123456
+Yönetici -	deneme@yonetici.com    	  123456
 
-Laborant	laborant@laborant.com 	  123456
+Laborant -	laborant@laborant.com 	  123456
 
-Laborant	selin@laborant.com 	      123456
+Laborant -	selin@laborant.com 	      123456
 
 Özellikler
 
