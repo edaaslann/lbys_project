@@ -5,11 +5,11 @@ Flutter & Firebase altyapısı kullanılarak hazırlanmıştır.
 
 Uygulamada üç farklı rol bulunmaktadır:
 
-  Yönetici
+  -Yönetici
   
-  Doktor
+  -Doktor
   
-  Laborant
+  -Laborant
 
 Test Kullanıcıları
 
